@@ -19,6 +19,7 @@ The dataset used for training is sourced from **Kaggle**. It has been restructur
 The dataset is split using the following file system:
 
 dataset/
+
 ├── train/       # Training images
 
 ├── val/         # Validation images
