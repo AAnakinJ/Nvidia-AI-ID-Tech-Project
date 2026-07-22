@@ -41,10 +41,9 @@ dataset/
 
 ## Running this project
 
-```bash
+<pre><code>#!/bin/bash
 curl -L -o ~/Downloads/cardetection.zip \
-  https://www.kaggle.com/api/v1/datasets/download/pkdarabi/cardetection
-```
+  https://www.kaggle.com/api/v1/datasets/download/pkdarabi/cardetection</code></pre>
 
 
 [View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
