@@ -41,7 +41,9 @@ dataset/
 
 ## Running this project
 
-
+'''#!/bin/bash
+curl -L -o ~/Downloads/cardetection.zip\ '''
+  https://www.kaggle.com/api/v1/datasets/download/pkdarabi/cardetection
 
 [View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
 
