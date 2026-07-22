@@ -26,15 +26,21 @@ dataset/
 
 └── test/        # Testing images
 
-![add image descrition here](direct image link here)
+![AI output example](https://drive.google.com/file/d/1ibY1r_sEN4gnIeN8wt-2JFWR9x5YJAdw/view?usp=sharing)
 
 ## The Algorithm
 
-Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
+[Train.py](https://docs.google.com/document/d/1Ntqpt_Va4BI6mHEDFuLBjUmVQF0ROEfFfOuRMVm1d_w/edit?usp=sharing)
+
+[reorganize.py](https://docs.google.com/document/d/1l7d2_Vh9qECCyrUtNQrFlQvSz6y-rbdPo-_2a0v-Tuk/edit?usp=sharing)
+
+[onnx_export.py](https://docs.google.com/document/d/1m6WHlbUfmlXYAtZTbKSXt6am-Sl5ju9eiKVh-noMfdo/edit?usp=sharing)
+
+[onnx_validate.py](https://docs.google.com/document/d/1nJQ0YYCak-djCjwA1_2J4yRhvhErDhOhr-4yYCYtfAk/edit?usp=sharing)
 
 ## Running this project
 
-1. Add steps for running this project.
-2. Make sure to include any required libraries that need to be installed for your project to run.
 
-[View a video explanation here](video link)
+
+[View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
+
