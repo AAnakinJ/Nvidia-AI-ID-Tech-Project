@@ -5,6 +5,8 @@ This project is an artificial intelligence model trained to detect and classify 
 
 The model was trained using the **ImageNet** architecture via NVIDIA's [jetson-inference](https://github.com/dusty-nv/jetson-inference) library and is optimized to run efficiently on a **Jetson Orin Nano**.
 
+![AI output example](https://drive.google.com/file/d/1ibY1r_sEN4gnIeN8wt-2JFWR9x5YJAdw/view?usp=sharing)
+
 
 ## 🛠 Hardware & Prerequisites
 
@@ -14,7 +16,7 @@ The model was trained using the **ImageNet** architecture via NVIDIA's [jetson-i
 
 ## 📊 Dataset
 
-The dataset used for training is sourced from **Kaggle**. It has been restructured to be compatible with the classification requirements of `jetson-inference`. 
+The dataset used for training is sourced from **Kaggle**. It has been restructured to be compatible with the classification requirements of `jetson-inference`: [Data Set](https://www.kaggle.com/datasets/pkdarabi/cardetection)
 
 The dataset is split using the following file system:
 
@@ -26,7 +28,6 @@ dataset/
 
 └── test/        # Testing images
 
-![AI output example](https://drive.google.com/file/d/1ibY1r_sEN4gnIeN8wt-2JFWR9x5YJAdw/view?usp=sharing)
 
 ## The Algorithm
 
