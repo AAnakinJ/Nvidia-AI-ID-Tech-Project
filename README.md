@@ -122,5 +122,8 @@ Here a video on how the AI work basically
 
 [View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
 
+here a powerpoint presentation for the key points of the project
+
+[Slideshow](https://docs.google.com/presentation/d/1YxrTlJr4C68iAW_tWPUshDzMXhClsoW8uqsS1m8acbg/edit?usp=sharing)
 + If you want, you will be abble to train or use differently with a webcam.  
 
