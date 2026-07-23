@@ -21,21 +21,21 @@ The dataset used for training is sourced from **Kaggle**. It has been restructur
 
 The dataset is split using the following file system:
 
-dataset/
+`dataset/`
 
-├── train/       # Training images
+`├── train/       # Training images`
 
-├── val/         # Validation images
+`├── val/         # Validation images`
 
-└── test/        # Testing images
+`└── test/        # Testing images`
 
 
 ## The Algorithm
 
-Train the AI
+`Train the AI`
 [Train.py](https://docs.google.com/document/d/1Ntqpt_Va4BI6mHEDFuLBjUmVQF0ROEfFfOuRMVm1d_w/edit?usp=sharing)
 
-Reorganize the dataset
+`Reorganize the dataset`
 [reorganize.py](https://docs.google.com/document/d/1l7d2_Vh9qECCyrUtNQrFlQvSz6y-rbdPo-_2a0v-Tuk/edit?usp=sharing)
 
 [onnx_export.py](https://docs.google.com/document/d/1m6WHlbUfmlXYAtZTbKSXt6am-Sl5ju9eiKVh-noMfdo/edit?usp=sharing)
@@ -89,7 +89,7 @@ cd python/training/classification</code></pre>
 python3 train.py --model-dir=models/Your_Model data/dataset</code></pre>
 
 and if you want to make the training shorter or longer change the 
-<pre><code>epoch</code></pre>
+`epoch`
 
 <pre><code>
 python3 train.py --epochs=10 --model-dir=models/Your_Model data/dataset</code></pre>
