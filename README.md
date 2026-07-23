@@ -37,10 +37,13 @@ The dataset is split using the following file system:
 `Reorganize the dataset`
 [reorganize.py](https://docs.google.com/document/d/1l7d2_Vh9qECCyrUtNQrFlQvSz6y-rbdPo-_2a0v-Tuk/edit?usp=sharing)
 
+Loads Pascal VOC dataset images and multi-label annotations for PyTorch.`
 [onnx_export.py](https://docs.google.com/document/d/1m6WHlbUfmlXYAtZTbKSXt6am-Sl5ju9eiKVh-noMfdo/edit?usp=sharing)
 
+`Converts saved PyTorch model checkpoints into the ONNX format.`
 [onnx_validate.py](https://docs.google.com/document/d/1nJQ0YYCak-djCjwA1_2J4yRhvhErDhOhr-4yYCYtfAk/edit?usp=sharing)
 
+`Checks exported ONNX models for errors and prints their metadata.`
 [voc.py](https://docs.google.com/document/d/1WqAsLXpWN7wWaimoirmK3_oyq9OzYPeHdRR6lA5Kbdg/edit?usp=sharing)
 
 ## Running this project
