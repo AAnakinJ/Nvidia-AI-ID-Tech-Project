@@ -106,7 +106,8 @@ DATASET=data/dataset</code></pre>
 
 Run the AI
 <pre><code>
-imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/cat/01.jpg cat.jpg
+imagenet.py --model=$NET/resnet18.onnx --input_blob=input_0 --output_blob=output_0 --labels=$DATASET/labels.txt $DATASET/test/cat/01.jpg cat.jpg</code></pre>
+
 
 [View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
 
