@@ -115,3 +115,5 @@ Here a video on how the AI work basically
 
 [View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
 
++ If you want, you will be abble to train or use differently with a webcam.  
+
