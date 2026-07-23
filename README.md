@@ -1,3 +1,4 @@
+<img width="516" height="516" alt="Screenshot 2026-07-22 103756" src="https://github.com/user-attachments/assets/e3f13453-f65a-4883-ad5f-062e4c06e4f8" />
 # Nvidia-AI-ID-Tech-Project
 # 🚦 Traffic Sign & Light Classifier (Jetson Orin Nano)
 
