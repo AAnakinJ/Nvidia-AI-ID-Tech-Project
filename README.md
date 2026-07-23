@@ -31,8 +31,10 @@ dataset/
 
 ## The Algorithm
 
+Train the AI
 [Train.py](https://docs.google.com/document/d/1Ntqpt_Va4BI6mHEDFuLBjUmVQF0ROEfFfOuRMVm1d_w/edit?usp=sharing)
 
+Reorganize the dataset
 [reorganize.py](https://docs.google.com/document/d/1l7d2_Vh9qECCyrUtNQrFlQvSz6y-rbdPo-_2a0v-Tuk/edit?usp=sharing)
 
 [onnx_export.py](https://docs.google.com/document/d/1m6WHlbUfmlXYAtZTbKSXt6am-Sl5ju9eiKVh-noMfdo/edit?usp=sharing)
