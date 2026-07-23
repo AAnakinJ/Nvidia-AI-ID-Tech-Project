@@ -5,7 +5,7 @@ This project is an artificial intelligence model trained to detect and classify 
 
 The model was trained using the **ImageNet** architecture via NVIDIA's [jetson-inference](https://github.com/dusty-nv/jetson-inference) library and is optimized to run efficiently on a **Jetson Orin Nano**.
 
-![AI output example]<img width="516" height="516" alt="Screenshot 2026-07-22 103756" src="https://github.com/user-attachments/assets/1ccf0a3e-5fda-40cf-92d9-028fbd2b69c7" />
+<img width="258" height="258" alt="Screenshot 2026-07-22 103756" src="https://github.com/user-attachments/assets/1ccf0a3e-5fda-40cf-92d9-028fbd2b69c7" />
 
 ## 🛠 Hardware & Prerequisites
 
