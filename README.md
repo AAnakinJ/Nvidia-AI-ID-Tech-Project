@@ -16,7 +16,8 @@ The model was trained using the **ImageNet** architecture via NVIDIA's [jetson-i
 
 ## 📊 Dataset
 
-The dataset used for training is sourced from **Kaggle**. It has been restructured to be compatible with the classification requirements of `jetson-inference`: [Data Set](https://www.kaggle.com/datasets/pkdarabi/cardetection)
+The dataset used for training is sourced from **Kaggle**. It has been restructured to be compatible with the classification requirements of 
+`jetson-inference`: [Data Set](https://www.kaggle.com/datasets/pkdarabi/cardetection)
 
 The dataset is split using the following file system:
 
