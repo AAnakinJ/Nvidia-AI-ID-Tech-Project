@@ -46,6 +46,9 @@ The dataset is split using the following file system:
 `Checks exported ONNX models for errors and prints their metadata.`
 [voc.py](https://docs.google.com/document/d/1WqAsLXpWN7wWaimoirmK3_oyq9OzYPeHdRR6lA5Kbdg/edit?usp=sharing)
 
+`Creates a PyTorch Dataset that parses image lists and multi-label CSV annotations for the NUS-WIDE dataset, and includes a command-line utility for testing.`
+[nuswide.py](https://docs.google.com/document/d/1jdilTNufXXjklDq0NtlO73w-tZxibZFDpHfuV-CD9tQ/edit?usp=sharing)
+
 ## Running this project
 
 Download the Dataset 
