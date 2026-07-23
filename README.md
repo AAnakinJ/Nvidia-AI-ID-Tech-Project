@@ -43,9 +43,9 @@ dataset/
 
 <pre><code>#!/bin/bash
 curl -L -o ~/Downloads/cardetection.zip \
-  <pre><code>https://www.kaggle.com/api/v1/datasets/download/pkdarabi/cardetection</code></pre>
+  https://www.kaggle.com/api/v1/datasets/download/pkdarabi/cardetection</code></pre>
 
-cd jetson-inference/python/training/classification/data</code></pre>
+<pre><code>cd jetson-inference/python/training/classification/data</code></pre>
 
 
 [View a quick video explanation here](https://drive.google.com/file/d/1DII7u_ZH6H3vxy3KSRnmuQ2As5q0aC9Z/view?usp=sharing)
